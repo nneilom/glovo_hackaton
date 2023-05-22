@@ -18,3 +18,5 @@ JavaScript
 -Firebase
 -Vesel
 -JSON
+
+ps:над адаптивной веррсткой надо еще поработать ((
