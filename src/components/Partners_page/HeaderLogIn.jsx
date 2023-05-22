@@ -136,7 +136,7 @@ const HeaderLogIn = () => {
       >
         <div className="menu_box">
           <div className="triagle_menu"> </div>
-          <p>Работай плиз</p>
+          <p>Ваши избранные товары</p>
           {displayedFavorites.map(
             (item, index) => item && <CardItem key={index} item={item} />
           )}
