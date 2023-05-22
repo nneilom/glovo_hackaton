@@ -1,4 +1,4 @@
-export const JSON_API_PRODUCTS = "https://glovo-8joaslhxg-nneilom.vercel.app/products";
+export const JSON_API_PRODUCTS = "https://glovo-xi.vercel.app/products";
 
 export const ACTIONS = {
   GET_PRODUCTS: "GET_PRODUCTS",
