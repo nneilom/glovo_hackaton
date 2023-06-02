@@ -20,3 +20,6 @@ JavaScript
 -JSON
 
 ps:над адаптивной веррсткой надо еще поработать ((
+
+
+доп ссылка https://glovo-copy.onrender.com/?q=
